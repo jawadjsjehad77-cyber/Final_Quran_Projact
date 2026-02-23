@@ -45,10 +45,10 @@ https://github.com/user-attachments/assets/08e877f0-d759-407a-9ac7-343a3eb5e1b9
 
 ### التقنيات المستخدمة (Tech Stack)
 
-* **Flutter & Dart:** الإطار الأساسي لتطوير التطبيق.
-* **Google Fonts:** استخدام خط (Amiri) لإضفاء طابع إسلامي فخم.
-* **REST API:** لجلب بيانات السور والآيات.
-* **FontAwesome Icons:** لإضافة أيقونات احترافية للواجهة.
+ **Flutter & Dart:** الإطار الأساسي لتطوير التطبيق.
+ **Google Fonts:** استخدام خط (Amiri) لإضفاء طابع إسلامي فخم.
+ **REST API:** لجلب بيانات السور والآيات.
+ **FontAwesome Icons:** لإضافة أيقونات احترافية للواجهة.
 
 </div>
 
