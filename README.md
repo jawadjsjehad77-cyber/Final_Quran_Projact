@@ -6,19 +6,19 @@
 
 ##  االصور
 
-| شاشة الدخول | شاشة الرئيسية | قائمة السور |
-|:---:|:---:|:---:|
-|<img width="532" height="1157" alt="Login_Screen" src="https://github.com/user-attachments/assets/52ef9425-1da3-4800-b922-137b1511a5b5" />
-| <img width="542" height="1158" alt="Home_Screen" src="https://github.com/user-attachments/assets/f56c7287-5eb3-4140-9f5c-34927521ce5e" />
-|<img width="548" height="1167" alt="Surahs_List" src="https://github.com/user-attachments/assets/25f79fe8-2472-4eae-bae9-7dc02ccad2fc" />
-|
+شاشة الدخول - شاشة الرئيسية - قائمة السور
 
-| تفاصيل السورة | حلقات التحفيظ | تقييمات الطلاب |
-|:---:|:---:|:---:|
-|<img width="541" height="1162" alt="One_Of_Surahs" src="https://github.com/user-attachments/assets/5b07f27e-830b-4e9d-a885-6e032b83ab57" />
-|<img width="537" height="1152" alt="Circles_Screen" src="https://github.com/user-attachments/assets/8791ddbd-332d-4cee-802f-6bf933044a7a" />
-|<img width="552" height="1162" alt="Grades_Screen" src="https://github.com/user-attachments/assets/e8329371-f2cb-42d8-8d48-ad9e56a7349b" />
-|
+<img width="532" height="1157" alt="Login_Screen" src="https://github.com/user-attachments/assets/52ef9425-1da3-4800-b922-137b1511a5b5" />
+<img width="542" height="1158" alt="Home_Screen" src="https://github.com/user-attachments/assets/f56c7287-5eb3-4140-9f5c-34927521ce5e" />
+<img width="548" height="1167" alt="Surahs_List" src="https://github.com/user-attachments/assets/25f79fe8-2472-4eae-bae9-7dc02ccad2fc" />
+
+
+ تفاصيل السورة  حلقات التحفيظ  تقييمات الطلاب 
+
+<img width="541" height="1162" alt="One_Of_Surahs" src="https://github.com/user-attachments/assets/5b07f27e-830b-4e9d-a885-6e032b83ab57" />
+<img width="537" height="1152" alt="Circles_Screen" src="https://github.com/user-attachments/assets/8791ddbd-332d-4cee-802f-6bf933044a7a" />
+<img width="552" height="1162" alt="Grades_Screen" src="https://github.com/user-attachments/assets/e8329371-f2cb-42d8-8d48-ad9e56a7349b" />
+
 
 ---
 
