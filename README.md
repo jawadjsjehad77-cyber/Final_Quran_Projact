@@ -22,7 +22,7 @@
 
 ---
 
-##  عرض الفيديو (Demo Video)
+##  عرض الفيديو 
 
 يمكنك مشاهدة استعراض كامل لمميزات التطبيق وتجربة المستخدم من خلال الفيديو التالي:
 
@@ -43,7 +43,7 @@ https://github.com/user-attachments/assets/08e877f0-d759-407a-9ac7-343a3eb5e1b9
 
 <div dir="rtl" align="right">
 
-###  التقنيات المستخدمة (Tech Stack)
+###  التقنيات المستخدمة 
 
 <p align="right">  <code>Flutter & Dart</code> : الإطار الأساسي لتطوير التطبيق بكفاءة عالية. </p>
 <p align="right">  <code>Google Fonts (Amiri)</code> : استخدام خط خارجي لإضفاء طابع إسلامي فخم. </p>
