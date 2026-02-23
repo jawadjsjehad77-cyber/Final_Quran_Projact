@@ -134,6 +134,10 @@ class _gradesState extends State<grades> {
             onSelected: (value){
 
               if(value == "1"){
+                Navigator.push(
+                  context, 
+                  MaterialPageRoute(builder: (context) => Home()),
+                  );
               }
               if(value == "2"){
                 Navigator.push(
