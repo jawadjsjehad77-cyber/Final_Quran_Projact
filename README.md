@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/08e877f0-d759-407a-9ac7-343a3eb5e1b9
 ###  التقنيات المستخدمة (Tech Stack)
 
 <p align="right">  <code>Flutter & Dart</code> : الإطار الأساسي لتطوير التطبيق بكفاءة عالية. </p>
-<p align="right">  <code>Google Fonts</code> : استخدام خط (Amiri) لإضفاء طابع إسلامي فخم. </p>
+<p align="right">  <code>Google Fonts (Amiri)</code> : استخدام خط خارجي لإضفاء طابع إسلامي فخم. </p>
 <p align="right">  <code>REST API</code> : جلب بيانات السور والآيات والمحتوى القرآني. </p>
 <p align="right">  <code>FontAwesome</code> : إضافة أيقونات احترافية متجانسة مع واجهة المستخدم. </p>
 
